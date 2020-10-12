@@ -41,6 +41,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 - React.js
 - Node.js 
+- Typescript
 
 --- 
 
