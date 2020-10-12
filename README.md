@@ -30,8 +30,8 @@
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
-A proposta do projeto é uma aplicação que possa ligar pessoas e facilitar a sua visita aos orfanatos proxímos, além de ter como objetivo presta assistência a crianças que se encontre em situações de risco e/ou vulnerabilidade social.
-É possivel encontrar alguns orfanatos proxímos ao seu endereço, visualizar o perfil, além de ser possível efetuar novos cadastros.
+A proposta do projeto é uma aplicação que possa ligar pessoas e facilitar a sua visita aos orfanatos proxímos, além de ter como objetivo prestar assistência a crianças que se encontre em situações de risco e/ou vulnerabilidade social.
+É possivel encontrar alguns orfanatos proxímos ao seu endereço, visualizar o perfil, além de efetuar novos cadastros.
 
 --- 
 
