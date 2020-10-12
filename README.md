@@ -39,12 +39,23 @@ A proposta do projeto é uma aplicação que possa ligar pessoas a orfanatos pro
 
 O projeto está desenvolvido utilizando as seguintes tecnologias:
 
-- React.js
-- Node.js 
-- Leaflet
-- Mapbox
-- Typescript
+### Front-End
 
+  - [React](https://reactjs.org/)
+  - [Typescript](https://www.typescriptlang.org/)
+  - [Leaflet](https://react-leaflet.js.org/)
+  - [Mapbox](https://www.mapbox.com/)
+
+### Back-End
+
+  > Em Desenvolvimento
+
+  <!-- - [NodeJS](https://nodejs.org/en/)
+  - [Express](https://expressjs.com/pt-br/)
+  - [Typescript](https://classic.yarnpkg.com/)
+  - [KnexJS](http://knexjs.org/)
+  - [SQLite](https://www.sqlite.org/index.html) -->
+  
 --- 
 
 ## ⌨ Como executar o projeto
