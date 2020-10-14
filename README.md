@@ -48,13 +48,11 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ### Back-End
 
-  > Em Desenvolvimento
-
-  <!-- - [NodeJS](https://nodejs.org/en/)
+  - [NodeJS](https://nodejs.org/en/)
   - [Express](https://expressjs.com/pt-br/)
   - [Typescript](https://classic.yarnpkg.com/)
-  - [KnexJS](http://knexjs.org/)
-  - [SQLite](https://www.sqlite.org/index.html) -->
+  - [TypeORM](https://typeorm.io/)
+  - [MySQL](https://www.mysql.com/)
   
 --- 
 
